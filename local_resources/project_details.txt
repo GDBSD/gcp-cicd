@@ -1,0 +1,42 @@
+Virtual environment (on local as well as GCP):
+gdb-gcp-cicd
+
+VM:
+Region: us-central1 (Iowa) us-central1a
+n2-standard-2 (2 cVPU, 8 GB memory)
+Ubuntu 18.04 LTS 10 GB persistent disk
+
+Run Notebook
+
+http://34.94.153.121:8888/?token=
+
+Keys:
+    rsa key pair passphrase: ThisIsBelongToGary
+    Your identification has been saved in /home/biggs_trilliant/.ssh/google_compute_engine.
+    Your public key has been saved in /home/biggs_trilliant/.ssh/google_compute_engine.pub.
+    The key fingerprint is:
+        SHA256:p1e+q3CGkg9JamvLQFGvld1kDbQZZNZVW878GHg2Mtk biggs_trilliant@gdb-ml-notebook-cicd-front
+
+    Retrieve a key:
+    location: /home/biggs_trilliant/.ssh/id_rsa.pub
+    biggs_trilliant@gdb-ml-notebook-cicd-front:~$ cat !$
+    cat /home/biggs_trilliant/.ssh/id_rsa.pub
+
+    Accessing private GitHub repositories
+    https://cloud.google.com/cloud-build/docs/access-private-github-repos
+
+GCP VM Setup:
+    VM: gdb-ml-notebook-cicd-front
+    Zone: zone: us-west2-a
+    Static IP "gdb-experiments": 34.94.153.121
+    Firewall rule: "gdb-experiments"
+    Jupyter Notebook password:
+        gdbongcp4exp
+        'sha1:bdabb57db2a2:2015497a5cb5096676af1f7992623459f7ffd1fd'
+
+GCP Project:
+    ID: gdb-gcp-cicd
+    Number: 349336618584
+    Service Account: 739196251433-compute@developer.gserviceaccount.com
+
+

@@ -1,0 +1,13 @@
+  Deploying to App Engine:
+
+     Building Custom Runtimes - required if using Dockerfile
+     https://cloud.google.com/appengine/docs/flexible/custom-runtimes/build
+
+     Testing and Deploying Your Application
+     https://cloud.google.com/appengine/docs/flexible/custom-runtimes/testing-and-deploying-your-app
+
+     gcloud app deploy doc
+     https://cloud.google.com/sdk/gcloud/reference/app/deploy
+
+     Troubleshooting App Engine flexible deployment
+     https://cloud.google.com/endpoints/docs/openapi/troubleshoot-aeflex-deployment

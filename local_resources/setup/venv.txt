@@ -1,0 +1,20 @@
+Virtual Environments
+
+Setting up a Python development environment
+https://cloud.google.com/python/setup
+
+Virtual Environments and Packages
+https://docs.python.org/3/tutorial/venv.html
+
+Python Virtual Environments: A Primer
+https://realpython.com/python-virtual-environments-a-primer/
+
+Pipenv & Virtual Environments
+https://docs.python-guide.org/dev/virtualenvs/
+
+The Python virtual environment with Pyenv & Pipenv
+https://dev.to/writingcode/the-python-virtual-environment-with-pyenv-pipenv-3mlo
+
+Why you should use pyenv + Pipenv for your Python projects
+https://hackernoon.com/reaching-python-development-nirvana-bb5692adf30c
+

@@ -1,0 +1,12 @@
+GCP Resources:
+
+PYTHON ON GOOGLE CLOUD PLATFORM
+  Build, deploy, and monitor Python apps at scale. Use Google's APIs to get
+  actionable insights from your data.
+https://cloud.google.com/python/
+
+Google Cloud Shell’s code editor / terminal
+https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor
+
+Setting up a Python development environment
+https://cloud.google.com/python/setup

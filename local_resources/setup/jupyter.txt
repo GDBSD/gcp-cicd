@@ -1,0 +1,37 @@
+Jupyter Notebooks:
+
+    Activate the virtual environment
+    source activate ml_notebook_cicd
+
+    Shut Down Jupyter Server
+    # Shut down a Jupyter server:
+    Each server should start on a new port. jupyter notebook list is reading a set of data
+    files - each notebook server you run writes a file when it starts up, and attempts to
+    remove it when it shuts down. If you see different listed servers on the same port,
+    that means some of them exited without being able to remove the file they made. If you
+    launch the notebook from a command prompt, you can shut it down by pressing Ctrl-C
+    in that same command prompt. If not, you can run jupyter notebook stop 8888
+
+    Run the notebook:
+    cd notebooks
+    jupyter notebook --ip=0.0.0.0 --port=8888 --no-browser &
+    http://34.94.153.121:8888/?token=
+
+    Jupyter Notebook Conversion to script (run from command line)
+    https://github.com/jupyter/nbconvert
+
+    TODO:
+    This document describes how you can secure a notebook server and how to run it on a public interface.
+    https://jupyter-notebook.readthedocs.io/en/stable/public_server.html
+
+
+Testing Notebooks:
+    pytest-notebook
+    https://pypi.org/project/pytest-notebook/
+
+    Testing Jupyter Notebooks
+    http://www.blog.pythonlibrary.org/2018/10/16/testing-jupyter-notebooks/
+
+   Research:
+   ? Executing notebooks from the command line with **nbconvert** [Read The Docs](https://nbconvert.readthedocs.io/en/latest/execute_api.html#module-nbconvert.preprocessors)
+   ? [nbconvert GitHub repo](https://github.com/jupyter/nbconvert)

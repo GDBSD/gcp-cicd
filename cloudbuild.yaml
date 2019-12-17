@@ -1,0 +1,27 @@
+steps:
+# ↓↓↓↓↓↓↓ Start of Continuous Integration Part ↓↓↓↓↓↓↓↓↓↓↓↓ #####
+- name: 'gcr.io/cloud-builders/git'
+  args:
+    [
+      'clone',
+      '--recurse-submodules',
+     'https://github.com/GDBSD/gcp_cicd'
+    ]
+  # Variable $COMMIT_SHA provided by the Cloud Build so we test the correct commit.
+- name: 'gcr.io/cloud-builders/git'
+  args:
+    [
+      'checkout',
+      '$COMMIT_SHA'
+    ]
+  dir: 'gcp_cicd'
+# ↓↓ The following causes a "permission denied" error
+# 'bash ./test_build.sh', 'python hello_world.py'
+- name: 'google/cloud-sdk:237.0.0'
+  args:
+    [
+      '-c',
+      'python tests/test_gcp_authenticate.py'
+    ]
+  dir: 'gcp_cicd'
+  entrypoint: '/bin/bash'

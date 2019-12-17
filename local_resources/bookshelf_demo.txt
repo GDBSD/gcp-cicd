@@ -1,0 +1,9 @@
+Python Bookshelf app
+https://cloud.google.com/python/getting-started/tutorial-app
+
+Tutorial code:
+/Develop/TutorialProjects/gcp_bookshelf
+
+GCP Specifics: Same as the parent project
+
+App Engine App: gdb-bookshelf-app

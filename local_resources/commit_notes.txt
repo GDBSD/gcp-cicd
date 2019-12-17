@@ -1,0 +1,1 @@
+- Updated cloudbuild.yaml to correct typo

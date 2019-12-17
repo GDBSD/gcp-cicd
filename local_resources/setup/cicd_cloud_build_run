@@ -1,0 +1,54 @@
+CI/CD Resources:
+
+    Continuous Deployment with Cloud Run and Cloud Build
+    https://www.kevinsimper.dk/posts/continuous-deployment-with-cloud-run-and-cloud-build
+
+    Simplifying Continuous Deployment to Cloud Run with Cloud Build including Custom Domain Setup(SSL)
+    https://medium.com/google-cloud/simplifying-continuous-deployment-to-cloud-run-with-cloud-build-including-custom-domain-setup-ssl-22d23bed5cd6
+
+    Executing notebooks from the command line with nbconvert
+    https://nbconvert.readthedocs.io/en/latest/execute_api.html#module-nbconvert.preprocessors
+
+    nbconvert GitHub repo
+    https://github.com/jupyter/nbconvert
+
+CloudBuild:
+
+    Run locally (doesn't pull from GitHub):
+    https://cloud.google.com/cloud-build/docs/build-debug-locally
+    cloud-build-local --config=cloudbuild.yaml --dryrun=true --push .
+
+    BUILDING WITH GOOGLE CLOUD BUILD
+    https://ordina-jworks.github.io/cloud/2019/03/28/Building-With-Google-Cloud-Build.html
+
+    Creating a basic build configuration file
+    https://cloud.google.com/cloud-build/docs/configuring-builds/create-basic-configuration
+
+    Google Container Registry
+    https://cloud.google.com/container-registry/
+
+    ** Build configuration overview
+    https://cloud.google.com/cloud-build/docs/build-config
+
+    ** Building and debugging locally
+    https://cloud.google.com/cloud-build/docs/build-debug-locally
+
+    CI/CD: Google Cloud Build — Custom Scripts
+    https://medium.com/serverlessguru/ci-cd-google-cloud-build-custom-scripts-12c9d23f9d4c
+
+    Mastering Google Cloud Build Config Syntax
+    https://medium.com/@davidstanke/mastering-google-cloud-build-config-syntax-8c3024607daf
+
+    Storing images and artifacts, e.g. storing a version of the notebook
+    https://cloud.google.com/cloud-build/docs/configuring-builds/store-images-artifacts
+
+    Taming Google Container Builder
+    https://medium.com/@lestrrat/taming-google-container-builder-22a6dded155c
+
+    Google Cloud Build Integration
+    https://whitesource.atlassian.net/wiki/spaces/WD/pages/544604326/Google+Cloud+Build+Integration
+
+CloudRun:
+    Simplifying Continuous Deployment to Cloud Run with Cloud Build including Custom Domain Setup(SSL)
+    https://medium.com/google-cloud/simplifying-continuous-deployment-to-cloud-run-with-cloud-build-including-custom-domain-setup-ssl-22d23bed5cd6
+

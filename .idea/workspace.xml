@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8e72c2d-fd27-4579-a4ff-95f130ae3f13" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gcloudignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gcp_cicd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudbuild.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local_resources/bookshelf_demo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local_resources/build_issues.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local_resources/commit_notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local_resources/dev_resoources.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local_resources/gcp_svc_acct.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local_resources/project_details.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local_resources/setup/app_engine.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local_resources/setup/cicd_cloud_build_run" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local_resources/setup/gcp_misc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local_resources/setup/issues_resolutions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local_resources/setup/jupyter.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local_resources/setup/venv.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local_resources/setup/vm.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_authenticate.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_crud.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_gcp_authenticate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V57PzkDg079F4r8AkXJviJtf15" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/anaconda3/envs/py27/bin/python2.7" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8e72c2d-fd27-4579-a4ff-95f130ae3f13" name="Default Changelist" comment="" />
+      <created>1576531081543</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576531081543</updated>
+      <workItem from="1576531085260" duration="3276000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="535" y="298" key="com.intellij.ide.util.TipDialog" timestamp="1576531087150">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state x="535" y="298" key="com.intellij.ide.util.TipDialog/-1052.-1057.1920.1057/0.23.1680.976/992.-1057.1920.1057@0.23.1680.976" timestamp="1576531087150" />
+    <state x="448" y="195" width="816" height="540" key="find.popup" timestamp="1576532558985">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state x="448" y="195" width="816" height="540" key="find.popup/-1052.-1057.1920.1057/0.23.1680.976/992.-1057.1920.1057@0.23.1680.976" timestamp="1576532558985" />
+  </component>
+</project>

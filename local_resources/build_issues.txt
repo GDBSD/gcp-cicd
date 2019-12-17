@@ -1,0 +1,9 @@
+-bash: ./test.sh: Permission denied
+
+Most filesystems on a COS node are mounted with "noexec" flag so you can't execute
+binaries from them.
+
+Some workarounds:
+
+For scripts, invoke the interpreter with the script as the argument,
+"bash /path/script.sh", "python /path/app.py"

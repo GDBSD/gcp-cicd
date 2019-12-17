@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gdb-ml-notebook-cicd",
+  "private_key_id": "d436716e3dadd92d9960aa9562a7351d35061080",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCeCenCdi+Pua6J\nhEbVOjFWFHL0n7IZ3NM7KJzaBqk4XZ0WoxeazFWypH7F4qbN8lDwEmze/xFI+UN6\ntTeQobQgNgTdZ+y51kXT3nTRDt6xVBnsUVRtiebKYQz4Z0ZmCSe/7Uk3Dw9SOD3n\ncUo7L73YPGIkNO9KKsJtVjDpY9Yz0U8nEy1+GEgAOxuZrNbW7gwLAMhFuG79YZcS\ndpVw/MAVnZObLSws2bQMJXxZOsCSEYdUKndGBYAaBs9j2racilu9TunuedO25k+k\n+wsCuEGNZCadJwhq0KaxdcNJySj8R9pOJaeZilmMxX5mwwQ0yLcbQ9eCoQGzkX1n\nlADZkfc/AgMBAAECggEAReivsbhzIJpsRWOwq7kSwvfHxENyVvNyszwralzA9XCf\nwThDBFR4Yk5Wz/WLgRW8TP5xj5F4VXYCLiFEo6OMWSVcMI68zpYlDGxe822m//1q\nfDmb5dq3L3YP9UBGCXPqVAHEvejZB69eXuekBRuA2MsZRNfvtDjHCfOzLkLeKcwt\n6LyJ2Xn1F5O4HESfd9/WdeBGfMQ9shScJek/hzgr4UsHvrRf1uvNE6uao0Q23uXT\n9dK8pAUptIBHWaibCC9Gl5ZtNEoMfkzwUiWNT4IIYvS03T8ACwGfMUei+XBVx3mR\nyrTKyvzrYN3jTKJdT8r2HBrXHlBNyZf/ypbcNFr60QKBgQDeJggKNQ0kXFHW1Pyo\n+OHBFtCtA8PPi2TyWcg9HcxliSjNMFjI4aQFneK/BSSXzRxJcXecAB1PdpOEZ0YR\noBxJPdXZ85Il10fpxOCYS3txkbXthdDw9Cy4H/XTCxSNZiawkXG7JcDVlSwKlUSL\nso9yEVkZx+qlm/6K3j2/gm2hrwKBgQC2HvhwQ9ArLmNVyOX1iIovm7+jZrOatrUX\nrAci0kVdbX4svilszBSZFnLl9WlxVTTd2SxZ2xB4/5Z1CteeGID2bnTWwJT1Ciff\nyuuMwH0l14ugdO1lGvlftbFnkO2CarYfPVp0B1DsWYkxrGZwZqKHpFzLKwBbtpl9\n5xj9vt83cQKBgA3r3jcdifxMWMiYwlioeCVMk7kz8jJwbtwNKlJCKsv2I3twWzAD\ni+7aLRqBbQCiVvJ3TOKW0z9mk+oJOsfh+8PPPzaQYAlFC3mn39dLa6n7UqZW63ge\nJStIvXQDTr9ptmT8SF9NB1+bII5tOkVy5DBmy+mksJy+QN5c/QuiVdJ7AoGBAJjm\nm5I1fNokEgX9qwNfZRTfYB9hpDyqVJPRPBSCEPaFbL9H0COlm02DyWdDiQk7ji0L\nne66urO7cahGOAxlajB7P+DkwqqPojaDeQssuGVC99j5Ei4mXWN7ebwHs0AhM1I7\nAmwTkF8+NK7dnQuVP7M9zSJNsflN7sQDd7nhvCohAoGBAMvs29Z8Y9yjzV8JOrV0\nhh5sF2mW60D7QoPwg/e68f8Gjc1wlizMnq6NgfQxBz7zPrVKemC3VGHdozCwfd3F\nBHnFGeNPXf+KBn05c0Ix75aBa9ORD45VednVXWtlq5EZP1vAgtg9gFRG1t0Y7qau\nK6HXifoExvySUDhNYZITVaBO\n-----END PRIVATE KEY-----\n",
+  "client_email": "gdb-ml-notebook-cicd@appspot.gserviceaccount.com",
+  "client_id": "103436147765565970580",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gdb-ml-notebook-cicd.iam.gserviceaccount.com"
+}

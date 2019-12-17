@@ -1,0 +1,16 @@
+local_resources/**
+
+.idea/**
+/.idea/**
+
+tmp_data/**
+tmp/**
+
+*.com
+*.pyc
+*.dll
+*.exe
+*.o
+*.class
+*.so
+
